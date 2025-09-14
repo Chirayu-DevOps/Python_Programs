@@ -1,0 +1,11 @@
+2025-09-13 18:03:33,640 - WARNING - This is Warning Message
+2025-09-13 18:03:33,641 - CRITICAL - This is Critical Message
+2025-09-13 18:03:33,642 - ERROR - This is Error Message
+2025-09-13 18:03:47,638 - WARNING - This is Warning Message
+2025-09-13 18:03:47,638 - CRITICAL - This is Critical Message
+2025-09-13 18:03:47,638 - ERROR - This is Error Message
+2025-09-13 18:05:02,203 - DEBUG - This is Debug Message
+2025-09-13 18:05:02,205 - INFO - This is Info Message
+2025-09-13 18:05:02,206 - WARNING - This is Warning Message
+2025-09-13 18:05:02,206 - CRITICAL - This is Critical Message
+2025-09-13 18:05:02,207 - ERROR - This is Error Message
